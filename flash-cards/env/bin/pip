@@ -1,4 +1,4 @@
-#!/Users/marcel2/code/cli-games/flash-cards/env/bin/python3.12
+#!/Users/marcel2/code/cli-games/flash-cards/env/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
